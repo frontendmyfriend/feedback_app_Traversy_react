@@ -5,7 +5,7 @@ function App () {
         <>
             <Header />
         <div className="container">
-            <h2>My app</h2>
+            <h2>My app with Brad Traversy</h2>
         </div>
         </>    
     )
