@@ -6,6 +6,15 @@
     padding: 0;
 }
 
+.active{
+    background-color: #ff6a95;
+    color: #cccccc;
+    text-decoration: none;
+    }
+    
+.navlink{
+    text-decoration: none;
+}
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #202142;
