@@ -11,6 +11,7 @@ import { FeedbackProvider } from "./context/FeedbackContext";
 import AboutIconLink from "./components/AboutIconLink";
 import Post from "./components/Post";
 
+
 function App() {
 
   return (
@@ -31,7 +32,7 @@ function App() {
                   // handleDelete={deleteFeedback}
                 />
                 <AboutIconLink />
-              </>
+                 </>
             }
           ></Route>
 
