@@ -1,6 +1,6 @@
 import { useParams } from "react-router-dom"
 import { Navigate, useNavigate } from "react-router-dom"
-import { BrowserRouter as Router, Route, Routes, NavLink } from "react-router-dom";
+import { BrowserRouter as Route, Routes } from "react-router-dom";
 
 
 function Post() {
