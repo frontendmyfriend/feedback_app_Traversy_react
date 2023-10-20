@@ -26,8 +26,6 @@ function App() {
               <>
                 <FeedbackForm />
                 <FeedbackStats/>
-                {/* <FeedbackStats feedback={feedback} /> */}
-
                 <FeedbackList
                   // feedback={feedback}
                   // handleDelete={deleteFeedback}
